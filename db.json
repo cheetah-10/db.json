@@ -1,0 +1,271 @@
+{
+  "chairpersons": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "image": "assets/images/chairperson.png",
+      "title": "Web Master",
+      "story": "Short story about yourself"
+    },
+    {
+      "id": 2,
+      "name": "John Doe",
+      "image": "assets/images/chairperson.png",
+      "title": "Web Master",
+      "story": "Short story about yourself"
+    },
+    {
+      "id": 3,
+      "name": "John Doe",
+      "image": "assets/images/chairperson.png",
+      "title": "Web Master",
+      "story": "Short story about yourself"
+    },
+    {
+      "id": 4,
+      "name": "John Doe",
+      "image": "assets/images/chairperson.png",
+      "title": "Web Master",
+      "story": "Short story about yourself"
+    },
+    {
+      "id": 5,
+      "name": "John Doe",
+      "image": "assets/images/chairperson.png",
+      "title": "Web Master",
+      "story": "Short story about yourself"
+    },
+    {
+      "id": 6,
+      "name": "John Doe",
+      "image": "assets/images/chairperson.png",
+      "title": "Web Master",
+      "story": "Short story about yourself"
+    },
+    {
+      "id": 7,
+      "name": "John Doe",
+      "image": "assets/images/chairperson.png",
+      "title": "Web Master",
+      "story": "Short story about yourself"
+    },
+    {
+      "id": 8,
+      "name": "John Doe",
+      "image": "assets/images/chairperson.png",
+      "title": "Web Master",
+      "story": "Short story about yourself"
+    },
+    {
+      "id": 9,
+      "name": "John Doe",
+      "image": "assets/images/chairperson.png",
+      "title": "Web Master",
+      "story": "Short story about yourself"
+    },
+    {
+      "id": 10,
+      "name": "John Doe",
+      "image": "assets/images/chairperson.png",
+      "title": "Web Master",
+      "story": "Short story about yourself"
+    }
+  ],
+  "events": {
+    "2019": [
+      {
+        "id": 1,
+        "name": "Event Name",
+        "date": "2019-03-15",
+        "location": "Helwan Cairo",
+        "details": "Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien.Lorem ipsum dolor sit amet consectetur adipiscing elit",
+        "image": "assets/images/event1.jpg",
+        "chapterId": "ras"
+      },
+      {
+        "id": 2,
+        "name": "Event Name",
+        "date": "2019-07-20",
+        "location": "Helwan Cairo",
+        "details": "Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien.Lorem ipsum dolor sit amet consectetur adipiscing elit",
+        "image": "assets/images/event1.jpg",
+        "chapterId": "pes"
+      },
+      {
+        "id": 3,
+        "name": "Event Name",
+        "date": "2019-11-22",
+        "location": "Helwan Cairo",
+        "details": "Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien.Lorem ipsum dolor sit amet consectetur adipiscing elit",
+        "image": "assets/images/event1.jpg",
+        "chapterId": "pes"
+      }
+    ],
+    "2020": [
+      {
+        "id": 4,
+        "name": "Event Name",
+        "date": "2020-02-10",
+        "location": "Giza Cairo",
+        "details": "Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien.Lorem ipsum dolor sit amet consectetur adipiscing elit",
+        "image": "assets/images/event1.jpg",
+        "chapterId": "wie"
+      },
+      {
+        "id": 5,
+        "name": "Event Name",
+        "date": "2020-08-25",
+        "location": "Giza Cairo",
+        "details": "Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien.Lorem ipsum dolor sit amet consectetur adipiscing elit",
+        "image": "assets/images/event1.jpg",
+        "chapterId": "ras"
+      }
+    ],
+    "2021": [
+      {
+        "id": 6,
+        "name": "Event Name",
+        "date": "2021-03-12",
+        "location": "Helwan Cairo",
+        "details": "Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien.Lorem ipsum dolor sit amet consectetur adipiscing elit",
+        "image": "assets/images/event1.jpg",
+        "chapterId": "wie"
+      }
+    ],
+    "2022": [
+      {
+        "id": 7,
+        "name": "Event Name",
+        "date": "2022-07-10",
+        "location": "Giza Cairo",
+        "details": "Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien.Lorem ipsum dolor sit amet consectetur adipiscing elit",
+        "image": "assets/images/event1.jpg",
+        "chapterId": "comsoc"
+      }
+    ],
+    "2023": [
+      {
+        "id": 8,
+        "name": "Event Name",
+        "date": "2023-05-22",
+        "location": "Helwan Cairo",
+        "details": "Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien.Lorem ipsum dolor sit amet consectetur adipiscing elit",
+        "image": "assets/images/event1.jpg",
+        "chapterId": "cs"
+      }
+    ],
+    "2024": [
+      {
+        "id": 9,
+        "name": "Event Name",
+        "date": "2024-01-15",
+        "location": "Helwan Cairo",
+        "details": "Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien.Lorem ipsum dolor sit amet consectetur adipiscing elit",
+        "image": "assets/images/event1.jpg"
+      }
+    ],
+    "2025": [
+      {
+        "id": 10,
+        "name": "Event Name",
+        "date": "2025-06-30",
+        "location": "Giza Cairo",
+        "details": "Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien.Lorem ipsum dolor sit amet consectetur adipiscing elit",
+        "image": "assets/images/event1.jpg",
+        "chapterId": "ras"
+      }
+    ],
+    "2026": [
+      {
+        "id": 11,
+        "name": "Event Name",
+        "date": "2026-06-3",
+        "location": "Giza Cairo",
+        "details": "Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien.Lorem ipsum dolor sit amet consectetur adipiscing elit",
+        "image": "assets/images/event1.jpg"
+      }
+    ],
+    "2027": [
+      {
+        "id": 12,
+        "name": "Event Name",
+        "date": "2027-06-15",
+        "location": "Giza Cairo",
+        "details": "Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien.Lorem ipsum dolor sit amet consectetur adipiscing elit",
+        "image": "assets/images/event1.jpg"
+      }
+    ]
+  },
+  "announcements": [
+    {
+      "id": 1,
+      "title": "Recruitment is Now Open!",
+      "description": "Apply now to join IEEE Helwan SB and become part of our innovative community.",
+      "link": "https://apply.ieeehelwan.org",
+      "createdAt": "2025-11-08T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Workshop Registration Open",
+      "description": "Join our new workshop on AI Fundamentals.",
+      "link": "https://ieeehelwan.org/workshops",
+      "createdAt": "2025-11-09T12:00:00Z"
+    },
+    {
+      "id": 3,
+      "title": "Recruitment is Now Open!",
+      "description": "Apply now to join IEEE Helwan SB and become part of our innovative community.",
+      "link": "https://apply.ieeehelwan.org",
+      "createdAt": "2025-11-08T10:00:00Z"
+    },
+    {
+      "id": 4,
+      "title": "Workshop Registration Open",
+      "description": "Join our new workshop on AI Fundamentals.",
+      "link": "https://ieeehelwan.org/workshops",
+      "createdAt": "2025-11-09T12:00:00Z"
+    },
+    {
+      "id": 5,
+      "title": "Recruitment is Now Open!",
+      "description": "Apply now to join IEEE Helwan SB and become part of our innovative community.",
+      "link": "https://apply.ieeehelwan.org",
+      "createdAt": "2025-11-08T10:00:00Z"
+    },
+    {
+      "id": 6,
+      "title": "Workshop Registration Open",
+      "description": "Join our new workshop on AI Fundamentals.",
+      "link": "https://ieeehelwan.org/workshops",
+      "createdAt": "2025-11-09T12:00:00Z"
+    },
+    {
+      "id": 7,
+      "title": "Workshop Registration Open",
+      "description": "Join our new workshop on AI Fundamentals.",
+      "link": "https://ieeehelwan.org/workshops",
+      "createdAt": "2025-11-09T12:00:00Z"
+    },
+    {
+      "id": 8,
+      "title": "Workshop Registration Open",
+      "description": "Join our new workshop on AI Fundamentals.",
+      "link": "https://ieeehelwan.org/workshops",
+      "createdAt": "2025-11-09T12:00:00Z"
+    },
+    {
+      "id": 9,
+      "title": "Workshop Registration Open",
+      "description": "Join our new workshop on AI Fundamentals.",
+      "link": "https://ieeehelwan.org/workshops",
+      "createdAt": "2025-11-09T12:00:00Z"
+    },
+    {
+      "id": 10,
+      "title": "Workshop Registration Open",
+      "description": "Join our new workshop on AI Fundamentals.",
+      "link": "https://ieeehelwan.org/workshops",
+      "createdAt": "2025-11-09T12:00:00Z"
+    }
+  ]
+}
